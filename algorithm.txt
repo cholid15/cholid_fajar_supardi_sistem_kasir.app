@@ -1,0 +1,8 @@
+mulai
+mengambil barang pembelian pada lemari barang
+memberikan barang kepada kasir 
+kasir memulai menghitung jumlah barang pembelian
+semua barang sudah di hitung serta total harganya
+pembeli membayar sesuai dengan total harga barang
+mengambil barang pembelian
+pulang
